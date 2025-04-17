@@ -1,6 +1,9 @@
 # JCIA Hackathon 2025 – Plum Fruit Detection System
 
 ## Team BytePulse 
+- Dyl Padaran Ambe Munjo Level400 University of Buea FET (Faculty of Engineering and Technology)
+- Messi II Rostand Innocent Level500 University of Buea FET (Faculty of Engineering and Technology)
+- Teku Ndi Betrand Level400 University of Buea FET (Faculty of Engineering and Technology)
 
 ## Overview
 
