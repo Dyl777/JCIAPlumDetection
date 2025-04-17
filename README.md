@@ -1,5 +1,7 @@
 # JCIA Hackathon 2025 – Plum Fruit Detection System
 
+## Team BytePulse 
+
 ## Overview
 
 Welcome to the official repository of our project developed during the JCIA Hackathon 2025. Our objective was to create an intelligent system capable of detecting and classifying plum fruits using machine learning techniques. By implementing an enhanced VGG16 model, inspired by the study "Defect Classification of Green Plums Based on Deep Learning" by Haiyan Zhou et al. because their classes closely mirror our classes and they obtained performances at 96.5% mean accuracy, we achieved significant milestones in training and validation accuracy. Testing finetuned models like EfficientNet, ConvxNet and object detection models didn't give performances above 76%
