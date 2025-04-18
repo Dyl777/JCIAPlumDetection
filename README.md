@@ -44,13 +44,13 @@ Experience our plum detection system on the go with our mobile application.
 
 Gain insights into our project's development and findings through our comprehensive presentation.
 
-- [View the Presentation](https://www.facebook.com/100086678510217/videos/1640789836797213/?app=fbl)
+- [View the Presentation](https://youtube.com/shorts/b2CVsJGmOQM?si=i6liMiIKQIQhlpRS)
 
 ## Team Members
 
 Meet the dedicated individuals behind this project.
 
-- [Team Profiles](https://www.facebook.com/100086678510217/videos/2090168244827329/?app=fbl)
+- [Team Profiles](https://youtube.com/shorts/ImENvE9BysM?si=eoVxdHc6NoIik8cR)
 
 ## Future Work
 
